@@ -3,4 +3,4 @@
 <img src="C:\Users\amarjit\Desktop\index.jpg"
 alt="image"
 />
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat]("C:\Users\amarjit\Desktop\index.jpg")
