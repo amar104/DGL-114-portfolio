@@ -3,4 +3,4 @@
 <img src="C:\Users\amarjit\Desktop\index.jpg"
 alt="image"
 />
-![Image of Yaktocat]("C:\Users\amarjit\Desktop\index.jpg")
+!img ("C:\Users\amarjit\Desktop\index.jpg")
