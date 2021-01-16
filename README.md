@@ -3,6 +3,6 @@
 <img src="C\Users\amarjit\Desktop\index.jpg"
 alt="image"
 />
-![GitHub Logo](C:\Users\amarjit\Desktop)
+![GitHub Logo](C:\Users\amarjit\Desktop\index.jpg)
 Format: ![Alt Text](url)
 
