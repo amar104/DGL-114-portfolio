@@ -6,3 +6,9 @@
 <h2> Poor interface mobile app(Weatherbug)</h2>
 <p> The Weatherbug mobile app is one of the weather app that i consider it has bad user interface beacuse its main screen is cover with full of ads that looks too ugly and busy.Secondly ,some advertisements put negative effect on users mind because they show inapproprieate content.And most of user prefer something simple and clean,clear that fulfill their needs and purpose by installing it,i personally used this app and after two days i uninstalled it.
 <h3>Activity Number = 0102</h3>
+<h2>'Intuitive'mobile interface</h2>
+<p> Intuitive user interface means user friendly product that is easy to use and learn without knowing anything special in prior.in other words, intuitive design direct people's attention to task that are important and it focus on user experience.
+<h2> 'Usable' and 'Intuitive' elements </h2>
+<h2> 1. Icons </h2> Icons are the best way of adding interaction to UI design ,following are the some icons that i will going to explain.
+     a.Checkboxes= let your users to select one or more options from a set.
+     b.Radio Button=Radio button allow users to select a one item at a time. 
