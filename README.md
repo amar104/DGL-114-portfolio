@@ -11,5 +11,5 @@
 <h2> 'Usable' and 'Intuitive' elements </h2>
 <h2> 1. Icons </h2> Icons are the best way of adding interaction to UI design ,following are the some icons that i will going to explain.
     
-    a.Checkboxes= let your users to select one or more options from a set.
-    b.Radio Button=Radio button allow users to select a one item at a time. 
+a. Checkboxes= let your users to select one or more options from a set.
+b. Radio Button=Radio button allow users to select a one item at a time. 
