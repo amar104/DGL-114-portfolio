@@ -15,4 +15,5 @@ Icons are the best way of adding interaction to UI design.
 <h2> 2.Checkboxes</h2> 
 let your users to select one or more options from a set.
 <h2> 3. Radio Button</h2>
-Radio button allow users to select a one item at a time. 
+Radio button allow users to select a one item at a time.
+
