@@ -11,9 +11,16 @@
 <h2> 'Usable' and 'Intuitive' elements </h2>
 <h2> 1. Icons </h2> 
 Icons are the best way of adding interaction to UI design.
-
 <h2> 2.Checkboxes</h2> 
 It allow your users to select one or more options from a set.
 <h2> 3. Radio Button</h2>
 Radio button allow users to select a one item at a time.
+<h2> 4. Color scheme </h2>
+Colors can be excellent tool to enhace the readability and using good color combination can easily attract new users and it improve UI design.
+<h2> 5. Font </h2>
+Font is also one of the major intuitive element of any app,you can use font as a way to guide your users attention to important elements.
+<h2> 6. Good visual design </h2>
+It is also very important usable element because it is more informative and scannable.
+<h2> 7. Primary text </h2>
+It is a main text element of any app and product that describe the most piece of information for their users,so it should be appropriate and meaningful.
 
