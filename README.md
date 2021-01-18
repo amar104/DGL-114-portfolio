@@ -23,4 +23,4 @@ Font is also one of the major intuitive element of any app,you can use font as a
 It is also very important usable element because it is more informative and scannable.
 <h2> 7. Primary text </h2>
 It is a main text element of any app and product that describe the most piece of information for their users,so it should be appropriate and meaningful.
-
+<img src="amar.jpg" alt= pic">
