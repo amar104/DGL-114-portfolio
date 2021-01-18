@@ -24,4 +24,6 @@ It is also very important usable element because it is more informative and scan
 <h2> 7. Primary text </h2>
 It is a main text element of any app and product that describe the most piece of information for their users,so it should be appropriate and meaningful.
 
+![GitHub Logo](C:\Users\jatiana\Desktop)
+Format: ![Alt Text](C:\Users\jatiana\Desktop)
 
