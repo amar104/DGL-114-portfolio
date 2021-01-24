@@ -9,13 +9,13 @@
   
 Besides that, it affers things for everyone and all the information is placed conveninently so it is easy to navigate.As you can see that below: 
 
-![Image of amazon](a2.jpg)
+<Img src= "a2.jpg" width="700" height="800">
 
 Apart from that, various kinds of filters and product lists are available which helps users for finding their required product in fraction of seconds.
 
 <h2> Poor interface mobile app(Weatherbug)</h2>
 
-![Image of amazon](b1.jpg)
+<Img src= "b1.jpg" width="700" height="800">
 
 
 The Weatherbug mobile app is one of the weather app that i consider it has bad user interface beacuse its main screen is cover with full of ads that looks too ugly and busy.
@@ -23,7 +23,7 @@ The Weatherbug mobile app is one of the weather app that i consider it has bad u
 
 Secondly ,some advertisements put negative effect on users mind because they show inapproprieate content.
 
-![Image of amazon](b2.jpg)
+<Img src= "b2.jpg" width="700" height="800">
 
 
 And most of user prefer something simple and clean,clear that fulfill their needs and purpose by installing it,i personally used this app and after two days i uninstalled it.
