@@ -3,7 +3,7 @@
 ### Activity Number = 0101 
 ## Best interface mobile app(Amazon)
 
-![Image of amazon](a1.jpg)
+<Img src= "a1.jpg" width="300" height="400">
 
 <p> I think Amazon is of the best shopping app that i love to use because it is easy to operate and it is very user friendly.Secondly,once we stored our personal information like our address and card details then we can easily buy anything without wasting time.</p>
   
