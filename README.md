@@ -99,7 +99,7 @@ Whatsapp gives us the following permissions :
 
 **Owl**= Educatinal app
 
-**Rally**=Personal finacial app**
+**Rally**=Personal finacial app
 
 **Reply**=Email app
 
