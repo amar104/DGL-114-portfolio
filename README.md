@@ -1,6 +1,6 @@
 # DGL-114-portfolio-
 ## Week 1 process portfolio
-### Activity Number = 0101 
+### Activity = 0101 
 ## Best interface mobile app(Amazon)
 
 <Img src= "a1.jpg" width="700" height="800">
@@ -28,7 +28,7 @@ Secondly ,some advertisements put negative effect on users mind because they sho
 
 And most of user prefer something simple and clean,clear that fulfill their needs and purpose by installing it,i personally used this app and after two days i uninstalled it.
 
-## Activity Number = 0102
+## Activity  = 0102
 
 <h2>'Intuitive'mobile interface</h2>
 
@@ -51,7 +51,7 @@ It is a main text element of any app and product that describe the most piece of
 
 
 # Week 2 Activities
-## Activity number 0201
+## Activity  0201
 ### Frequently used Mobile app= **WhatsApp**(Android)
 >**WhatsApp** is one of the most popular social networking app that is used worldwide,and it is very usefull app that helps people to keep in touch with each other in convienent way.
 ### Features of WhatsApp(app)
@@ -71,9 +71,6 @@ It is a main text element of any app and product that describe the most piece of
 8.**Available for desktop also**: Its desktop version is also available so people can use any of its version as per their requirements.
 ## WhatsApp permissions
 Whatsapp gives us the following permissions :
-
-<Img src= "per1.jpg" width="700" height="800">
-
 1. **Camera**
 
 2. **Contacts**
@@ -87,6 +84,34 @@ Whatsapp gives us the following permissions :
 6. **SMS**
 
 7. **Storage**
+
+<Img src= "per1.jpg" width="700" height="800">
+
+## Activity  0203
+### Material design
+>I really like this site because everything is outstanding and there is nothing wrong if we said it is for everyone.For example in the study material we can easily find something as per our requirements.variety of study materail are available such as:
+
+**Basil**= Recipe app that use material design component
+
+**Crane**= Travel app
+
+**Fortnightly**= News app
+
+**Owl**= Educatinal app
+
+**Rally**=Personal finacial app**
+
+**Reply**=Email app
+
+**Shrine**=Retail app
+
+### More interesting page
+>I love everything on this site but i like **Basin** more from the study material because i never seen any perfact design app of food and recipe and am very foody person so that's why i explore that area in depth.Its architecture is soo simple and easy to operate and its special feature is that it consider all of their users from desktop to mobile.
+
+>Its color combination and typography everything is perfact and am also working on my adobe xd assignment for creating moodboard and landing page where i need to choose good colors and typeface so it helps me to learn more about app and its design components.
+
+
+
 
 
 
