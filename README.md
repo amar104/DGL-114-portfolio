@@ -52,8 +52,41 @@ It is a main text element of any app and product that describe the most piece of
 
 # Week 2 Activities
 ## Activity number 0201
+### Frequently used Mobile app= **WhatsApp**(Android)
+>**WhatsApp** is one of the most popular social networking app that is used worldwide,and it is very usefull app that helps people to keep in touch with each other in convienent way.
+### Features of WhatsApp(app)
 
+1. **Voice and video call feature**: People can talk with their friends and family members for free, you just need a internet connection for calling to each other even if your known one's in another country.Thus,people can have face to face conversation feature when they miss someone.
 
+<Img src= "tegh.jpg" width="700" height="800">
+
+2. **Share images and documents**: WE can send photos and video and other documents instantly on whatapp.
+<Img src= "pics.jpg" width="700" height="800">
+
+3. **camera** : Whatsapp also have their own camera feature that is very good feature of that.
+4. **Provide security feature**: In whatapp all the text and data are end to end encripted,so your messages and calls are secure from any threat.
+5. **Send voice note**: We can also voice note to each other in a fraction of second.
+6. **Group chat and calling facility**:In whatsapp we can also do group chat and group calling,so that is one of its amazing feature and people love group calling and they feel so close to each other.
+7. **Share updates in the form of status**: People can show some of their favourite stuf like pictures,acticles,songs and web page link with their friends on the status field,so everyone can easily see any update on it.
+8.**Available for desktop also**: Its desktop version is also available so people can use any of its version as per their requirements.
+## WhatsApp permissions
+Whatsapp gives us the following permissions :
+
+<Img src= "per1.jpg" width="700" height="800">
+
+1. **Camera**
+
+2. **Contacts**
+
+3. **Location**
+
+4. **Microphone**
+
+5. **Phone**
+
+6. **SMS**
+
+7. **Storage**
 
 
 
