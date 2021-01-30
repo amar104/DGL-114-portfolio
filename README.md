@@ -168,6 +168,9 @@ Whatsapp gives us the following permissions :
 
 
 > <Img src= "s.jpg" width="450" height="500"></img>
+
+## Activity  0302
+### Frequently used Mobile app= **Amazon**(Android)
 	
 	
 	
