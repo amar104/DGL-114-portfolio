@@ -129,13 +129,45 @@ Whatsapp gives us the following permissions :
 
 >As we know most of the people following the news and updates through social networking app ,so in facebook app people can easily get updates about news and updates around them.
 
+
 > <Img src= "f1.jpg" width="450" height="500"></img>
 
+### Groups fields
+
+>On facebook you can see group field where people can join any group as per their chooise ,it is basically showed your all joining group list along with posts and latest updates about that.You can see it below :
+
+> <Img src= "g.jpg" width="450" height="500"></img>
+
+
+### Watch fields
+
+>This watch field is basically for audio video support,people can easily watch any video clip from any page or news cahnnel directly,you can find here long list of video clips :
 
 
 
-	
-	
+> <Img src= "w.jpg" width="450" height="500"></img>
+
+
+### Home field
+
+> Home field is basically for users profile where user can upload any image ,songs,video and so on .user can also edit their profile by selecting edit profile link over there : 
+
+> <Img src= "h.jpg" width="450" height="500"></img>
+
+
+### Notification field
+
+> In the notification field user can get notification from their friends activities as well as from news channels .it is basically from those people whose pages and profile we add or follow from our id.
+
+> <Img src= "n.jpg" width="450" height="500"></img>
+
+
+### Privacy and setting field
+
+> In the privacy and setting field user can set their privacy as a public ,private view of their profile,user can change it anytime as per their needs.
+
+
+> <Img src= "s.jpg" width="450" height="500"></img>
 	
 	
 	
