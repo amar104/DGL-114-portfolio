@@ -118,14 +118,22 @@ Whatsapp gives us the following permissions :
 ## <table><tr>All activities(Screens)
 
 ### Login screen
-<tr>
-This is the first screen of facebook mobile aap,it is a login screen where there are usually two fields where user need to fill their email adress or phone number then enter their passward along with login button.old user can also reset their passward if they did not remember.
 
-New user can also need to sign up for creating their account on facebook.
-<td><Img src= "login.jpg" width="450" height="500"></img></td>
+>This is the first screen of facebook mobile aap,it is a login screen where there are usually two fields where user need to fill their email adress or phone number then enter their passward along with login button.old user can also reset their passward if they did not remember.
 
-</tr>
-</table>
+>New user can also need to sign up for creating their account on facebook.
+<Img src= "login.jpg" width="450" height="500"></img>
+
+
+### Social screen Feed
+
+>As we know most of the people following the news and updates through social networking app ,so in facebook app people can easily get updates about news and updates around them.
+
+> <Img src= "f1.jpg" width="450" height="500"></img>
+
+
+
+
 	
 	
 	
