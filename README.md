@@ -113,7 +113,7 @@ Whatsapp gives us the following permissions :
 # Week 3 Activities
 ## Activity  0301
 ### Frequently used Mobile app= **Facebook**(Android)
-> Nowadays smart phone play an important role in our lives and it is very hard to identify each and every screen of mobile apps but i will do my best to explain about each screen and activity of *Facebook* mobile aap
+> Nowadays smart phone plays an important role in our lives and it is very hard to identify each and every screen of mobile apps but i will do my best to explain about each screen and activity of *Facebook* mobile aap
 
 ## <table><tr>All activities(Screens)
 
@@ -122,7 +122,7 @@ Whatsapp gives us the following permissions :
 This is the first screen of facebook mobile aap,it is a login screen where there are usually two fields where user need to fill their email adress or phone number then enter their passward along with login button.old user can also reset their passward if they did not remember.
 
 New user can also need to sign up for creating their account on facebook.
-<td><Img src= "login.jpg" width="400" height="500"></img></td>
+<td><Img src= "login.jpg" width="450" height="500"></img></td>
 
 </tr>
 </table>
