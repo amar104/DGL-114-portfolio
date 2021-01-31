@@ -171,7 +171,51 @@ Whatsapp gives us the following permissions :
 
 ## Activity  0302
 ### Frequently used Mobile app= **Amazon**(Android)
-	
+ ## Event type:
+>When user interact with widget then event excuted and represent their action of the view class and event listner provides an interface of the view class.
+
+## Common android event type:
+Here am going to discuss some of the common android event types :
+1. onClick()
+2. onFocusChange()
+3. onLongClick()
+4. onTouch()
+5. onKey()
+
+## Amazon (event types)
+
+1. onClick(): 
+
+>The onClick() event is one of the common event type of all apps in which when user touch the item and view class onClickListner is called.
+
+> <Img src= "ab.jpg" width="450" height="500"></img>
+
+>Here we can see the *see all* button at the bottom of the screen so when we click on that button then "onClick" event is excuted that called the view class of the see all categories.
+
+2. onTouch():
+
+>This onTouch event is excuted when user touch any part of the app on the screen ,in "amazon" app there are lots of onTouch event where user need to press or touch the item.
+
+> <Img src= "aa.jpg" width="450" height="500"></img>
+
+>As we can see that there are lots of links there such as *home*, *shop by category*,*todays deal*,*yours order* and so on,that all events are touch based.
+
+3. onLongClick():
+
+ >The onLongClick() event is called when user need to touch or hold the item for sometime,in amazon when we select any particular category then we need to press long for exploring item further.
+
+
+ ## Different instances of amazon app
+ 1. onClick()
+ 2. onSelect()
+ 3. onDrag()
+ 4. onFocusChange() etc
+
+ ## other events
+
+ >I only observed the onSelect() event type of amazon app because when we need to select quantity of any item in amazon app then we need to do onSelect () action,it is similar to onclick event but i feel button control event is different from selectevent type.
+
+> <Img src= "ac.jpg" width="450" height="500"></img>	
 	
 	
 	
