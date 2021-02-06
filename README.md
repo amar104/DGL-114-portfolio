@@ -216,13 +216,23 @@ Here am going to discuss some of the common android event types :
  >I only observed the onSelect() event type of amazon app because when we need to select quantity of any item in amazon app then we need to do onSelect () action,it is similar to onclick event but i feel button control event is different from selectevent type.
 
 > <Img src= "ac.jpg" width="450" height="500"></img>	
+
+
+# Week 4 Activities
+## Activity  0403
+## Differances between the use of top and bottom app bars
+### App bars: 
+> The app bar also called action bar it provides a visual structure	and userfriendly elements .it identifies the app and provide access on important action like search and navigation buttons.
+
+## Differances between the top and bottom bars
+1. The **top app bar** provides the contents and **action to current screen** of the app it used for screen navigation and actions whereas the **bottom bar provides the access to the bottom navigation drawer**.
+
+2. The **behaviour of both app** bars are **opposite** from each other during scrolling.The **top app bar only visible** when we **scroll downward** and it is invisible during upward scrolling. on the other hand during **upward scrolling the bottom app bar is visible** and scrolling downward hides the bottom app bar.
+
+3. The (FAB)floating action button(+) is only available in the bottom app bar and it has different layout based on FAB.
 	
 	
-	
-	
-	
-	
-	
+4. The bottom app bar are mobile only component and it is not applicable on tablet and PC use and top app bars are more flexible than bottom app bars.
 
 	
 	
