@@ -219,6 +219,34 @@ Here am going to discuss some of the common android event types :
 
 
 # Week 4 Activities
+## Activity  0401
+## App navigational model
+## Mobile app ( Amazon.com )
+## Traverse different screens
+> Amazon app is the shopping app which provide good interface to their user,user can traverse their different activities(screens) throgh its navigational sign such as
+
+> (<) = This sign is used for left navigation
+
+> (>) = This sign is used for right navigation
+
+<table>
+<tr><th>
+ <Img src= "m5.jpg" width="450" height="500"></img><th>
+  <Img src= "m6.jpg" width="450" height="500"></img>	
+ </th></tr></table>	
+
+AS we can see that the both navigation sign in the pics.
+
+## Hierarchical realtionship:
+> In this app all activities have hierarchical relationship because there is a home screen from where we can accessed all the another activities, in the below image you can see the home screen of amazon app:
+
+<Img src= "m1.jpg" width="900" height="500"></img><th>
+
+> So this is home screen and when any user want to buy anything so this screen shows all the available categories of all the products which helps user to select their appropriate product.
+
+
+
+
 ## Activity  0403
 ## Differances between the use of top and bottom app bars
 ### App bars: 
