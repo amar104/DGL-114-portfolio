@@ -263,7 +263,17 @@ AS we can see that the both navigation sign in the pics.
 4. The bottom app bar are mobile only component and it is not applicable on tablet and PC use and top app bars are more flexible than bottom app bars.
 
 	
-	
+# Week 5 Activities
+## Activity  0503
+## Dialogs :
+> A diaog is a special small window for displaying messaging to the user for some kinds of actions and can contain have critical information,requires decisions or involves multiple tasks.
+
+## When the use of dialogs is appropriate?
+
+As per my perception the use of dialog is appropriate in following conditions.
+* Dialogs are useful when we want to inform the user of some event or progress.For example,when we want to delete any contact from our phone or picture from gallery then we always see one dialog that tell us about *Are you sure you want to delete this contact?* so in this case dialogs plays an essential role.
+* Alert dialog is good because it gives urgent and detailed information to the user.
+* Dialog is also appropriate choice when user want to take immediate affect upon selection of dialog.
 	
 	
 	
