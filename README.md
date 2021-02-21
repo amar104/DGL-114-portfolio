@@ -264,7 +264,7 @@ AS we can see that the both navigation sign in the pics.
 
 	
 # Week 5 Activities
-## Activity  502
+## Activity  0502
 
 ## Touch event and touch gestures
 > There are many touch event and gestures in android and ios app which is an important part of developing user interaction.there are so many basic event associated with every app such as click,long click,drag and drop etc.on the other hand , touch gestures is tapping by one or more finger on the touch screen in the predefined pattern.
