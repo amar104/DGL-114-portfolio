@@ -274,6 +274,21 @@ As per my perception the use of dialog is appropriate in following conditions.
 * Dialogs are useful when we want to inform the user of some event or progress.For example,when we want to delete any contact from our phone or picture from gallery then we always see one dialog that tell us about *Are you sure you want to delete this contact?* so in this case dialogs plays an essential role.
 * Alert dialog is good because it gives urgent and detailed information to the user.
 * Dialog is also appropriate choice when user want to take immediate affect upon selection of dialog.
+
+## Activity  502
+
+## Touch event and touch gestures
+> There are many touch event and gestures in android and ios app which is an important part of developing user interaction.there are so many basic event associated with every app such as click,long click,drag and drop etc.on the other hand , touch gestures is tapping by one or more finger on the touch screen in the predefined pattern.
+
+## Instagram (Android app)
+> Instagram is one of the popular social networking app that helps user in communicating with each other.there are so mnay touch event and gestures that helps user in interaction with the app:
+
+## List of touch event and touch gestures of instargam
+
+* OnTouchEvent is basic event associated with instagram when we open instagram app then we can simply tap on any image by using finger then image is immediately open.
+* Scroll is another gesture of the instagram when we want to open message window then we can simply scroll the screen towards right.
+* Spread is also most commonly used gesture in instagram when we need to zoom anything then we can use spread gesture by using two finger on it.
+
 	
 	
 	
