@@ -288,7 +288,7 @@ As per my perception the use of dialog is appropriate in following conditions.
 * OnTouchEvent is basic event associated with instagram when we open instagram app then we can simply tap on any image by using finger then image is immediately open.
 * Scroll is another gesture of the instagram when we want to open message window then we can simply scroll the screen towards right.
 * Spread is also most commonly used gesture in instagram when we need to zoom anything then we can use spread gesture by using two finger on it.
-
+* Long press is also event gesture of this app which helps user to open any users profile by long press on the stories of the user.
 	
 	
 	
