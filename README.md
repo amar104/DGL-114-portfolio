@@ -264,17 +264,6 @@ AS we can see that the both navigation sign in the pics.
 
 	
 # Week 5 Activities
-## Activity  0503
-## Dialogs :
-> A diaog is a special small window for displaying messaging to the user for some kinds of actions and can contain have critical information,requires decisions or involves multiple tasks.
-
-## When the use of dialogs is appropriate?
-
-As per my perception the use of dialog is appropriate in following conditions.
-* Dialogs are useful when we want to inform the user of some event or progress.For example,when we want to delete any contact from our phone or picture from gallery then we always see one dialog that tell us about *Are you sure you want to delete this contact?* so in this case dialogs plays an essential role.
-* Alert dialog is good because it gives urgent and detailed information to the user.
-* Dialog is also appropriate choice when user want to take immediate affect upon selection of dialog.
-
 ## Activity  502
 
 ## Touch event and touch gestures
@@ -289,6 +278,18 @@ As per my perception the use of dialog is appropriate in following conditions.
 * Scroll is another gesture of the instagram when we want to open message window then we can simply scroll the screen towards right.
 * Spread is also most commonly used gesture in instagram when we need to zoom anything then we can use spread gesture by using two finger on it.
 * Long press is also event gesture of this app which helps user to open any users profile by long press on the stories of the user.
+
+## Activity  0503
+## Dialogs :
+> A diaog is a special small window for displaying messaging to the user for some kinds of actions and can contain have critical information,requires decisions or involves multiple tasks.
+
+## When the use of dialogs is appropriate?
+
+As per my perception the use of dialog is appropriate in following conditions.
+* Dialogs are useful when we want to inform the user of some event or progress.For example,when we want to delete any contact from our phone or picture from gallery then we always see one dialog that tell us about *Are you sure you want to delete this contact?* so in this case dialogs plays an essential role.
+* Alert dialog is good because it gives urgent and detailed information to the user.
+* Dialog is also appropriate choice when user want to take immediate affect upon selection of dialog.
+
 	
 	
 	
