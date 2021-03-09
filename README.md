@@ -290,7 +290,54 @@ As per my perception the use of dialog is appropriate in following conditions.
 * Alert dialog is good because it gives urgent and detailed information to the user.
 * Dialog is also appropriate choice when user want to take immediate affect upon selection of dialog.
 
-	
+# Week 8 Activities
+
+## Activity 0801
+
+## Facebook (on android) complex mobile app
+>Facebook is one of the most popular social networking app that have so many users that makes it more complex because it contains huge amount of activities and information related anything. As we all knows that user can create their profile and share their stories and even create their pages that helps them to generate income.
+
+## Data storage capabilities
+
+* Shared preferance : On facebook user can set their preferance in the form of security and user can share their personal contents in the form of images and videos.
+* App specific files : We can save any file internaly and externaly as per our required.
+* Shared storage : On facebook app we can easily share any audio,video or images with other app by simply pressing share option then we can choose the app where we want to share our files.
+* Database : For a backup we can store database locally or private on the system.
+* Cloud : Cloud is another best option for saving the backup of data on cloud by using cloud id.
+
+## Activity 0802
+## To-Do list app 
+> This app help users to oraganize their tasks by adding all the task in a list so that user can manage all things on time. It is very useful for all the users.
+ ## Advanced To-Do list
+ > suppose we can use adnace version of the TO-Do list where we have to use data storage statergies :
+
+ ## Data storage statergies
+ * Shared preferance : In that user can set their sharing data elements in a seprate place.
+ * Specific files: Here,it is our choice to save our to-do list internal or external.
+ * Shared storage: On this place user can shared their task with other similar group.
+ Database: User can save their list llocal or private as per their choice.
+ * Cloud: On cloud user can save to-do list for the future reference.
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	
 	
 	
