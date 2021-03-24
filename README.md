@@ -318,6 +318,70 @@ As per my perception the use of dialog is appropriate in following conditions.
  Database: User can save their list llocal or private as per their choice.
  * Cloud: On cloud user can save to-do list for the future reference.
 
+# Week 9 Activities
+
+## Activity 0901
+
+## Rooms :
+> Rooms is a persistence library that provide abstraction layer access on the database and it is considered as a better approach as compare to other approaches for accessing the database , as it provides compile time verification of SQL quaries.
+## Advantages of saving data locally using rooms
+
+> As we can discussed eralier  there are so many advantages using room ,some of them i will discussed in the following:
+
+* As we can save data locally so we can use it anytime and we did not need a internet connection for accessing the data.
+* Compile time verification of SQL queries.
+* convienience approach.
+## Components of room
+
+* Database: Database is the main component of room which we can use as a main class where we can store the data.
+* Tables: Tables are also called relations in the database where we can store the data in the form of rows and columns.
+* Schema: Schemas are the other important concept of rooms which shows the relation between tables.
+
+## Activity 0902
+
+## Fragment
+> Fragment is a small managable part of the app that is easy to handle and we can reuse it if we want so this is independent part of the app.and frament can define its own layout.
+## Advantages of fragments
+* Modularity: Fragment promote the modularity of the app as it become easy to manage.
+* Reuseabilty: By using fragment we can reuse the code easily.
+## Create a fragment
+> We can create fragment in numbers of ways like:
+* Create a fragment class
+* Add fragment in a main activity
+* Add fragment in XML
+* Add fragment progmatically
+> So, overall fragment plays an important role in apps because we can handle any part of the data in more accurate way.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  
 
