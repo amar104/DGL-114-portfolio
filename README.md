@@ -352,6 +352,47 @@ As per my perception the use of dialog is appropriate in following conditions.
 * Add fragment progmatically
 > So, overall fragment plays an important role in apps because we can handle any part of the data in more accurate way.
 
+# Week 10 Activities
+
+## Activity 1002
+## Notification
+> Notifications are the message that appered on the status bar on android app. It notify users about some importent concept like low battery or someones text on screen and so on.
+## Main concern when implementing notification in app
+>There are some major concern when we implement notificaton in the app that am going to explain in futher paragraphs:
+* Appearence  of the notification: Apperaence is the main thing that we should consider when we thing about implementing a notification because notification should be visible for the user so that user can easily identify the notification when they turned on their phones screen.
+* Lock screen : We must consider the lock screen view when we think about creating a notification so that user can view it properly wheter their screen is lock or unlock.
+* App icon shape: We must consider the notification app icon shapes so that user can find out an importent notication such a low battery and out of power sign , that would be helpful for the end users.
+* Notification anatomy: This is the setting of app where we can define the how much details we needed when notification will apperaed.
+
+## Activity 1003
+## Most importent consideration related to notifications
+* Usage : A notification is a message that android displyed on phone and provide the user with reminders and user can tap the notification and get to know about what is happening in the app.
+* Anatomy of notification : How much details of notification contaion must be verified by anatomy of notification.The header area of notification contains the following details:
+1. App icon
+2. App name
+3. Header text
+4. Timestemp
+5. Expand indicator
+* Behavior : The behavior of the notification means how we set the parameters for notification when it is arrived.useually is showns in the status bar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
