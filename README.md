@@ -376,23 +376,41 @@ As per my perception the use of dialog is appropriate in following conditions.
 * Behavior : The behavior of the notification means how we set the parameters for notification when it is arrived.useually is showns in the status bar
 
 
+# Week 11 Activities
+
+## Activity 1101
+## Animation types
+>Android animation is used to give the UI rich look and feel. animation in android apps can be performed through XML or android code.
+## Types
+## 1. Fade in animation
+## 2. Fade out animation
+## 3. Cross fading animation
+## 4. Blink animation
+## 5. Zoom in animation
+## 6.Zoom out animation
+## 7. Rotate animation
+## 8. Move animation
+## 9. Sequential animation
+## 10. Slide up animation
+
+> 1. Fade in ,Fade out animation: These two animations are used to change the apperaence and behaviours of the objects over particular interval of time. Fade out animation provide better look and feel foe our application.
+
+> 3. Cross fading animation: Crossfade animation also known as dissolve animation .This animation is usefull for situation where you want to swich content or views in your apps.
 
 
+> 4. Blink animation: To make a blink effect we can use the objectAnimator object of android SDK that lets us to animate specific property of view.
 
 
+## Activity 1103
+## Designing for motion
+> Motion design is a discipline that applies graphic design principle to film making and video production through use of animation and visual effects. 
 
-
-
-
-
-
-
-
-
-
-
-
-
+## Different ways to use animation in mobiles
+> A good mobile app must boast a great interface design and an engaging user experience 
+1. Animated launch screen
+2. Login screens
+3. Animated onboarding screen
+4. Animated progress and activity indicator screen
 
 
 
